@@ -1,0 +1,106 @@
+#grid-section {
+    display: block;
+}
+
+.navbar-brand {
+    margin-left: 5px;
+}
+
+.btn-outline-success {
+    margin-right: 10px;
+}
+
+#section-1 {
+    padding-top: 20px;
+    background: lightgray;
+    height: 50px;
+}
+
+#section-1 .icons {
+    margin: 0 auto;
+}
+
+#section-2 {
+    margin-top: 80px;
+}
+
+.fila-img {
+    margin-bottom: 20px;
+}
+
+
+.botones {
+    margin-top: -25px;
+    float: right;
+    margin-right: 70px;
+}
+
+#iconos {
+
+    margin-right: 250px;
+ 
+}
+
+
+/*** SINGLE SECTION **/
+
+#single-section {
+    display: none;
+}
+
+.main-princ {
+    width: 500px;
+    margin-top: 80px !important;
+    margin: 0 auto;
+    border: 1px solid gray;
+    padding-top: 20px;
+    border-radius: 5px;
+}
+
+
+
+
+.headerTitle p  {
+    line-height: 2px;
+    margin-left: 20px;
+
+}
+
+.headerTitle .fa-ellipsis-v {
+    margin-top: -30px;
+    display: inline-block;
+    float: right;
+    margin-right: 10px;
+}
+
+.fa-html5 {
+    float: left; /** importante el left **/
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: -4px;
+}
+
+.imagen {
+    width: 498px;
+}
+
+.fa-heart, .fa-comment, .fa-papper-plane {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.fa-bookmark {
+    float: right;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.likes {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.body {
+    margin-left: 10px;
+}
